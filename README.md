@@ -21,3 +21,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 ### 基础使用
 ##### pinia 单个数据变更&多个数据变更(使用$patch优化性能)
 ##### pinia 使用 actions
+##### store 访问其他 store
